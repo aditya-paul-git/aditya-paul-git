@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aditya.paul.job@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tOr7Ma7YHURdzIftlNDox7b5C0Tf69V8/edit?usp=drive_link&ouid=100254012472525026812&rtpof=true&sd=true](https://docs.google.com/document/d/1tOr7Ma7YHURdzIftlNDox7b5C0Tf69V8/edit?usp=drive_link&ouid=100254012472525026812&rtpof=true&sd=true)
+- 📄 Know about my experiences Link(https://docs.google.com/document/d/1tOr7Ma7YHURdzIftlNDox7b5C0Tf69V8/edit?usp=drive_link&ouid=100254012472525026812&rtpof=true&sd=true)
 
 - ⚡ Fun fact **love photography**
 
