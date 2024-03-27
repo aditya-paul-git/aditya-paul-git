@@ -1,4 +1,4 @@
-![logo](https://github.com/aditya-paul-git/aditya-paul-git/blob/main/GitHub_Banner.gif)
+![logo](https://github.com/aditya-paul-git/aditya-paul-git/blob/main/GitHub_Banner.png)
 
 <h1 align="center">Hi 👋, I'm Aditya Paul</h1>
 <h3 align="center">A passionate Salesforce developer from India</h3>
