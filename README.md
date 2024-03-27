@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aditya.paul.job@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1tOr7Ma7YHURdzIftlNDox7b5C0Tf69V8/edit?usp=drive_link&ouid=100254012472525026812&rtpof=true&sd=true">Link<a/>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1QAhxtAA36cp9EwNyak-SaXM6W6exjK8c/view?usp=drive_link">Link<a/>
 
 - ⚡ Fun fact **love photography**
 
