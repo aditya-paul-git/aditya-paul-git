@@ -36,8 +36,8 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-paul-git&show_icons=true&locale=en&layout=compact" alt="aditya-paul-git" width="400" height="190" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-paul-git&show_icons=true&locale=en" alt="aditya-paul-git" width="440" height="190" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya-paul-git&show_icons=true&locale=en&layout=compact" alt="aditya-paul-git" width="380" height="190" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-paul-git&show_icons=true&locale=en" alt="aditya-paul-git" width="420" height="190" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-paul-git&" alt="aditya-paul-git" width="870" /></p>
 
 <hr>
